@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Recent graduate of The University of Northampton. 
+
 <!--
 **CallumTeesdale/CallumTeesdale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
